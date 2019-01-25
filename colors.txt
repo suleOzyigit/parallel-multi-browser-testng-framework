@@ -19,3 +19,4 @@ ivory
 bronze
 blonde
 green
+purple
